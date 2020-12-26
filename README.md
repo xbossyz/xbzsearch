@@ -1,6 +1,6 @@
 # XBOSSYZ SEARCH BASH SCRIPT
 
-Autor: Erlaitz "xBossyz" Parreno
+Autor: Erlaitz "xBossyz" Parreño
 
 S.O: Linux
 
