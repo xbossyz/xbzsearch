@@ -1,11 +1,15 @@
 # XBOSSYZ SEARCH BASH SCRIPT
 
 Autor: Erlaitz "xBossyz" Parreno
+
 S.O: Linux
+
 Date: 25/12/2020
 
 Funcionamiento --> ./xbzsearch <Ruta> <Cadena a buscar> 
 Ejemplo: ./xbzsearch /etc db_pass 
+
+____________________________________________________________________
 
 Script para realizar busquedas de palabras clave dentro de ficheros como contraseñas, usuarios, etc.
 
@@ -19,6 +23,8 @@ OUTPUT:
 /root/test/.env:1:password=test
 
 /root/test/config.php:2:db_pass=test
+
+___________________________________________________________________
 
 También realizar busquedas de ficheros por el sistema.
 
