@@ -7,32 +7,33 @@ S.O: Linux
 Date: 25/12/2020
 
 Funcionamiento --> ./xbzsearch <Ruta> <Cadena a buscar> 
-Ejemplo: ./xbzsearch /etc db_pass 
+  
+__Ejemplo: ./xbzsearch /etc db_pass__
 
 ____________________________________________________________________
 
 Script para realizar busquedas de palabras clave dentro de ficheros como contraseñas, usuarios, etc.
 
-**root@kali-pentest:~# ./xbzsearch.sh /root/test/ pass
+__root@kali-pentest:~# ./xbzsearch.sh /root/test/ pass__
 1) Buscar cadenas de texto con pass dentro de un fichero en /root/test/   
 2) Buscar ficheros que contengan pass en /root/test/                      
 3) Buscar ficheros(.txt,.php,etc) con el nombre pass en /root/test/       
 Introduce una opcion: 1
 
 OUTPUT:
-/root/test/.env:1:password=test
+__/root/test/.env:1:password=test__
 
-/root/test/config.php:2:db_pass=test
+__/root/test/config.php:2:db_pass=test__
 
 ___________________________________________________________________
 
 También realizar busquedas de ficheros por el sistema.
 
-root@kali-pentest:~# ./xbzsearch.sh /root/test/ root
+__root@kali-pentest:~# ./xbzsearch.sh /root/test/ root__
 1) Buscar cadenas de texto con pass dentro de un fichero en /root/test/   
 2) Buscar ficheros que contengan pass en /root/test/                      
 3) Buscar ficheros(.txt,.php,etc) con el nombre pass en /root/test/       
 Introduce una opcion: 3
 
 OUTPUT:
-/root/test/root.txt
+__/root/test/root.txt__
