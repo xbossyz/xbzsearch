@@ -1,5 +1,6 @@
 #!/bin/bash
 #Autor: Erlaitz Parreno @erlaitzpm
+#Versión: 1.0
 
 if [ "$1" == "-h" ]; then
 	echo "Funcionamiento --> ./xbzsearch <Ruta> <Cadena a buscar> ";
