@@ -30,7 +30,7 @@ ___________________________________________________________________
 
 También realizar busquedas de ficheros por el sistema.
 
-__root@kali-pentest:~# ./xbzsearch.sh /root/test/ root__
+__root@kali-pentest:~# ./xbzsearch.sh / root__
 1) Buscar cadenas de texto con pass dentro de un fichero en /root/test/   
 2) Buscar ficheros que contengan pass en /root/test/                      
 3) Buscar ficheros(.txt,.php,etc) con el nombre pass en /root/test/ 
