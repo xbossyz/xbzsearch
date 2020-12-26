@@ -6,7 +6,7 @@ S.O: Linux
 
 Date: 25/12/2020
 
-Funcionamiento --> ./xbzsearch Ruta Cadena a buscar 
+Funcionamiento --> ./xbzsearch *Ruta* *Cadena* 
   
 __Ejemplo: ./xbzsearch /etc db_pass__
 
