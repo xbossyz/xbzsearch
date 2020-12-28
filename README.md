@@ -1,6 +1,6 @@
 # SCRIPT PARA BUSCAR PALABRAS CLAVE O FICHEROS EN LINUX
 
-Autor: Erlaitz "xBossyz" Parreño
+Autor: Erlaitz "xBossyz" Parreño @erlaitzpm
 
 S.O: Linux
 
