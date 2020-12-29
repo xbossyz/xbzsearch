@@ -10,9 +10,9 @@ fi
 	
 	
 echo "#----------------------------------------------------------------------#";
-echo "# 1) Buscar cadenas de texto con ""$2"" dentro de un fichero en $1;
-echo "# 2) Buscar ficheros que contengan ""$2"" en $1; 
-echo "# 3) Buscar ficheros(.txt,.php,etc) con el nombre ""$2"" en $1;
+echo "# 1) Buscar cadenas de texto con ""$2"" dentro de un fichero en $1";
+echo "# 2) Buscar ficheros que contengan ""$2"" en $1"; 
+echo "# 3) Buscar ficheros(.txt,.php,etc) con el nombre ""$2"" en $1";
 echo "#----------------------------------------------------------------------#";
 
 echo "Introduce una opcion";
